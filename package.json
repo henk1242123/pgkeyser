@@ -1,0 +1,14 @@
+{
+  "name": "discord-rendershop-bot",
+  "version": "1.0.0",
+  "main": "discord-rendershop-bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node discord-rendershop-bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.4.0",
+    "sqlite3": "^5.1.6"
+  }
+}
