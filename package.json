@@ -4,7 +4,7 @@
   "main": "discord-rendershop-bot.js",
   "type": "module",
   "scripts": {
-    "start": "node discord-rendershop-bot.js"
+    "start": "start index.js"
   },
   "dependencies": {
     "discord.js": "^14.13.0",
